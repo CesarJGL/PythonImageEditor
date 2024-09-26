@@ -1,2 +1,2 @@
 # PythonImageEditor
-Python IDE Image editor
+Python IDE Image Editor Code
